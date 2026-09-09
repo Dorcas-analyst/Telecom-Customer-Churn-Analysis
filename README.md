@@ -119,5 +119,3 @@ This repository represents an independent implementation that:
 * Uses **PostgreSQL instead of Microsoft SQL Server**.
 * Covers the **SQL/ETL and Power BI components**.
 * Does **not** implement the original tutorial's Machine Learning phase.
-
-Full credit is given to PivotalStats for the original project design and analytical approach.
